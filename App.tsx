@@ -132,7 +132,7 @@ const styles = StyleSheet.create({
   },
   bottomImageContainer: {
     width: '100%',
-    aspectRatio: 1, // This ensures responsiveness
+    aspectRatio: 1, 
   },
   doctorImg: {
     width: '100%',
